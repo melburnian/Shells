@@ -77,4 +77,4 @@ git push origin feature/your-feature-name
 5. Open a pull request
 
 ## Licence
-This project is licensed under the Unlicense. See the LICENSE file for details.
+This project is licensed under the Unlicense. See the [LICENSE](https://github.com/melburnian/Shells/blob/main/LICENSE) file for details.
